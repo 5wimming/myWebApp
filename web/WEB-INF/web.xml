@@ -11,7 +11,7 @@
 
     <servlet-mapping>
         <servlet-name>MyDemo</servlet-name>
-        <url-pattern>/a/hi</url-pattern>
+        <url-pattern>/hi</url-pattern>
     </servlet-mapping>
 </web-app>
 
